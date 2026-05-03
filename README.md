@@ -62,7 +62,7 @@ Based in **Bangladesh**, he focuses on clean architecture, performance optimizat
 
 #### CMS & E-commerce
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
 - **WordPress** - Custom themes, plugins
@@ -88,53 +88,10 @@ Based in **Bangladesh**, he focuses on clean architecture, performance optimizat
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://riadhasan.io/projects">
-    <img src="https://img.shields.io/badge/View_All_Projects-riadhasan.io/projects-58A6FF?style=for-the-badge" alt="View All Projects"/>
-  </a>
-</div>
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Wooverse**](https://riadhasan.io/projects/wooverse) | Headless WooCommerce with Next.js frontend | WordPress, Next.js, WooCommerce |
-| [**Doctor's Portfolio**](https://riadhasan.io/projects/doctors-portfolio) | Medical portfolio with appointment system | React, Laravel, MySQL |
-| [**NexaPro AI SaaS**](https://riadhasan.io/projects/nexapro-ai-saas) | AI SaaS landing page | React, CSS, JavaScript |
-| [**Tik Rok Radio**](https://riadhasan.io/projects/tik-rok-radio) | Radio streaming platform frontend | React, CSS, Responsive |
-| [**Bills Music Center**](https://riadhasan.io/projects/bills-music-center) | Guitar e-commerce store | WordPress, WooCommerce |
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RiadHasan15&theme=github-dark-blue&hide_border=true&background=0a0a0a&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currEmbgtColor=0a0a0a&sideEmbgtColor=0a0a0a&sideNumsColor=FFFFFF&currNumsColor=FFFFFF&datesColor=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiadHasan15&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----
-
-### 💼 Services
+### 🎯 Current Focus
 
 ```yaml
-Backend Development:
-  - Laravel applications & APIs
-  - WordPress plugin development
-  - Database design & optimization
-  - Third-party API integrations
-
-Frontend Development:
-  - React single-page applications
-  - Responsive web interfaces
-  - Performance optimization
-  - SEO implementation
-
-E-commerce:
-  - WooCommerce customization
-  - Headless commerce solutions
-  - Payment gateway integration
-  - Inventory management systems
+Building: Headless WooCommerce solutions
+Learning: Unity game development & C#
+Exploring: AI-powered web applications
+Contributing: Open source PHP packages
