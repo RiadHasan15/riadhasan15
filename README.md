@@ -28,9 +28,59 @@ Based in **Bangladesh**, he focuses on clean architecture, performance optimizat
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,nodejs,react,js,html,css,tailwind,wordpress,git,github,linux,docker,vscode&perline=8" />
-</div>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,nodejs&perline=5" />
+
+- **Laravel** — APIs, dashboards, authentication
+- **PHP** — Custom applications, integrations
+- **MySQL** — Database design & optimization
+- **REST APIs** — Design & implementation
+
+</td>
+<td valign="top" width="50%">
+
+#### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&perline=5" />
+
+- **React** — SPAs, dashboards, modern UIs
+- **JavaScript** — ES6+, async patterns
+- **Tailwind CSS** — Utility-first styling
+- **Responsive Design** — Mobile-first approach
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 📦 CMS & E-commerce
+
+<img src="https://skillicons.dev/icons?i=wordpress&perline=5" />
+
+- **WordPress** — Custom themes & plugins
+- **WooCommerce** — E-commerce solutions
+- **Headless CMS** — Decoupled architectures
+
+</td>
+<td valign="top" width="50%">
+
+#### 🛠️ Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&perline=5" />
+
+- **Git/GitHub** — Version control, CI/CD
+- **Linux** — Server management
+- **Docker** — Containerization
+- **Performance** — Core Web Vitals, SEO
+
+</td>
+</tr>
+</table>
 
 ---
 
