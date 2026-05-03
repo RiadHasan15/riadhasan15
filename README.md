@@ -16,7 +16,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RiadHasan15&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" />
 
 ### 👋 About Riad Hasan
 
@@ -114,7 +113,6 @@ Based in **Bangladesh**, he focuses on clean architecture, performance optimizat
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghp/commits-avatar/RiadHasan15?theme=github-dark-blue" alt="Commits Avatar"/>
 </div>
 
 <div align="center">
